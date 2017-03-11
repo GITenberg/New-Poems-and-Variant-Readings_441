@@ -1,5 +1,5 @@
 _repo: New-Poems-and-Variant-Readings_441
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Osbourne, Lloyd
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '512'
     url: http://www.gutenberg.org/2009/agents/512
     wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/441#New-Poems-and-Variant-Readings
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
